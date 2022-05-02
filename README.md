@@ -1,4 +1,4 @@
-# Vue
+# Calcite-Components Vue Color Picker Bug
 
 ## Project setup
 
